@@ -9,14 +9,15 @@
 - [Overview of Colaboratory Features](https://colab.research.google.com/notebooks/basic_features_overview.ipynb) (también aplicable a Jupyter Lab)
 
 ## Clase 2
-- Extracción y preprocesamiento de datos [[slides](https://docs.google.com/presentation/d/1Qhd2D4HCcudEQ658IRvldEs_EgDT3XPUe6GK4rBDTNU/edit?usp=sharing)] [[notebook 1](http://nbviewer.ipython.org/urls/raw.github.com/iapucp/summer-school-2019/master/notebooks/Clase%2002%20-%20Intro%20a%20Python%2C%20Numpy%20y%20Pandas.ipynb)] [[notebook 2](http://nbviewer.ipython.org/urls/raw.github.com/iapucp/summer-school-2019/master/notebooks/Clase%2002%20-%20Data%20Extraction.ipynb)] 
+- Extracción y preprocesamiento de datos [[slides](https://docs.google.com/presentation/d/1Qhd2D4HCcudEQ658IRvldEs_EgDT3XPUe6GK4rBDTNU/edit?usp=sharing)] [[notebook](https://nbviewer.jupyter.org/github/iapucp/IA-Diplomado/blob/master/Python%20for%20Data%20Science/classes/01%20-%20Extraction.ipynb)] 
 
 ## Clase 3
-- Web scraping, análisis exploratorio y visualización [[slides](https://docs.google.com/presentation/d/1ykhwrVO4ZaynsUXtuZNmDoQkbS2IYj_KPSaK1Jh96qk/edit?usp=sharing)] [[notebook 1](https://nbviewer.jupyter.org/github/iapucp/summer-school-2019/blob/master/notebooks/Clase%2003%20-%20Web%20Scraping.ipynb)] [[notebook 2](http://nbviewer.ipython.org/urls/raw.github.com/iapucp/summer-school-2019/master/notebooks/Clase%2003%20-%20Visualizacion%20y%20Preprocesamiento.ipynb)] 
+- Web scraping, análisis exploratorio y visualización [[slides](https://docs.google.com/presentation/d/1ykhwrVO4ZaynsUXtuZNmDoQkbS2IYj_KPSaK1Jh96qk/edit?usp=sharing)] [[notebook](https://nbviewer.jupyter.org/github/iapucp/IA-Diplomado/blob/master/Python%20for%20Data%20Science/classes/02%20-%20Visualization.ipynb)] 
 
 ## Clase 4
-- Machine Learning [[slides](https://docs.google.com/presentation/d/1knNbzGTAe0rYUF1ZcxJChCzWZQ9q71z6a6GNnnOqTDI/edit?usp=sharing)] [[notebook 1](https://nbviewer.jupyter.org/github/iapucp/summer-school-2019/blob/master/notebooks/Clase%2004%20-%20Machine%20Learning.ipynb)] [[notebook 2](http://nbviewer.ipython.org/urls/raw.github.com/iapucp/summer-school-2019/master/notebooks/Clase%2004%20-%20Validacion.ipynb)]
-- [Kaggle Kernel](https://www.kaggle.com/robertalonso29/kernel5ede56fc54?scriptVersionId=19445659)
+- Machine Learning [[slides](https://docs.google.com/presentation/d/1knNbzGTAe0rYUF1ZcxJChCzWZQ9q71z6a6GNnnOqTDI/edit?usp=sharing)] [[Kaggle kernel](https://www.kaggle.com/robertalonso29/titanic-simple-example?scriptVersionId=19593986)] 
+- Competencia: [IA-PUCP Diplomado - Reto 1](https://www.kaggle.com/t/ee3288b171d84b92bc1881a3b791a856)
+- Competencia: [IA-PUCP Diplomado - Reto 2](https://www.kaggle.com/t/b5d0833a6fd348e39d80c32bddab61d2)
 
 ## Clase 5
 - Análisis de modelos, Deep Learning [[slides](https://docs.google.com/presentation/d/1EBPNOf2yFAuMMa67Jr883paU8S3nvGaYZiWDOXcn0AM/edit?usp=sharing)] [[notebook](http://nbviewer.ipython.org/urls/raw.github.com/iapucp/summer-school-2019/master/notebooks/Clase%2005%20-%20Neural%20Networks.ipynb)]
